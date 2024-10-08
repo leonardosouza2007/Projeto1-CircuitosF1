@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto1LP_CircuitosF1", "Projeto1LP_CircuitosF1\Projeto1LP_CircuitosF1.csproj", "{D961E676-C0BD-43EB-BA82-4529606B81AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D961E676-C0BD-43EB-BA82-4529606B81AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D961E676-C0BD-43EB-BA82-4529606B81AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D961E676-C0BD-43EB-BA82-4529606B81AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D961E676-C0BD-43EB-BA82-4529606B81AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B63F1C-A344-4BCD-A998-707390753BF0}
+	EndGlobalSection
+EndGlobal
